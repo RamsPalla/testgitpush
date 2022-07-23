@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mongoest.iml" filepath="$PROJECT_DIR$/.idea/Mongoest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mongotest.iml" filepath="$PROJECT_DIR$/.idea/Mongotest.iml" />
     </modules>
   </component>
 </project>
