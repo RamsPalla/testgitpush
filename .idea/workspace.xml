@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01fb81ae-366f-4a1c-b882-52fc4af7dc3a" name="Changes" comment="just committing">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FirstpythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="01fb81ae-366f-4a1c-b882-52fc4af7dc3a" name="Changes" comment="just committing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,14 +293,14 @@
     </configuration>
     <list>
       <item itemvalue="Python.PrimeNumber_Function (1)" />
-      <item itemvalue="Python.Question1" />
-      <item itemvalue="Python.Question2" />
-      <item itemvalue="Python.Question3" />
-      <item itemvalue="Python.Question4" />
-      <item itemvalue="Python.logging_class" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test3" />
+      <item itemvalue="Python.Question4" />
+      <item itemvalue="Python.logging_class" />
+      <item itemvalue="Python.Question2" />
+      <item itemvalue="Python.Question3" />
+      <item itemvalue="Python.Question1" />
     </list>
     <recent_temporary>
       <list>
