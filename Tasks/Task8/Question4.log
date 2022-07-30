@@ -1,0 +1,11 @@
+
+2022-07-30 20:04:38,573 numexpr.utils  INFO NumExpr defaulting to 8 threads.
+2022-07-30 20:04:39,153 root  ERROR DLL load failed while importing _psycopg: The specified module could not be found.
+Traceback (most recent call last):
+  File "C:\Users\Rambabu\PycharmProjects\FirstpythonProject\Tasks\Task8\Question4.py", line 11, in <module>
+    import psycopg2
+  File "C:\Users\Rambabu\anaconda3\envs\FirstpythonProject\lib\site-packages\psycopg2\__init__.py", line 51, in <module>
+    from psycopg2._psycopg import (                     # noqa
+ImportError: DLL load failed while importing _psycopg: The specified module could not be found.
+2022-07-30 20:10:16,679 numexpr.utils  INFO NumExpr defaulting to 8 threads.
+2022-07-30 20:14:48,906 numexpr.utils  INFO NumExpr defaulting to 8 threads.

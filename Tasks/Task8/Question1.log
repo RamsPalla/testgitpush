@@ -1,0 +1,16 @@
+2022-07-28 22:38:54,597 root  ERROR 1050 (42S01): Table 'attributedataset' already exists
+Traceback (most recent call last):
+  File "C:\Users\Rambabu\anaconda3\envs\FirstpythonProject\lib\site-packages\mysql\connector\connection_cext.py", line 555, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'attributedataset' already exists
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rambabu\PycharmProjects\FirstpythonProject\Tasks\Task8\Question1.py", line 12, in <module>
+    cursor.execute("create table task8.AttributeDataSet(Dress_ID int(30), Style varchar(80), Price varchar(80), Rating float(30), Size varchar(80), Season varchar(80), NeckLine varchar(80), SleeveLength varchar(80), waiseline varchar(80), Material varchar(80), FabricType varchar(80), Decoration varchar(80), PatternType varchar(80), Recommendation int(30))")
+  File "C:\Users\Rambabu\anaconda3\envs\FirstpythonProject\lib\site-packages\mysql\connector\cursor_cext.py", line 276, in execute
+    result = self._cnx.cmd_query(
+  File "C:\Users\Rambabu\anaconda3\envs\FirstpythonProject\lib\site-packages\mysql\connector\connection_cext.py", line 563, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1050 (42S01): Table 'attributedataset' already exists

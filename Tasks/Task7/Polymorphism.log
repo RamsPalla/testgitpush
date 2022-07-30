@@ -1,0 +1,10 @@
+2022-07-28 18:52:36,151 root ERRORname 'ineuron_external' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Rambabu\PycharmProjects\FirstpythonProject\Tasks\Task7\Polymorphism.py", line 15, in <module>
+    ineuron_external(i)
+NameError: name 'ineuron_external' is not defined
+2022-07-28 18:58:22,261 root ERRORname 'ineuron_external' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Rambabu\PycharmProjects\FirstpythonProject\Tasks\Task7\Polymorphism.py", line 15, in <module>
+    ineuron_external(i)
+NameError: name 'ineuron_external' is not defined
